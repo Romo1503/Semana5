@@ -1,0 +1,5 @@
+Una ruta POST es el "buzón" de tu aplicación. A diferencia de GET que solo sirve para pedir o ver información, POST es para enviar datos al servidor. Todo lo que una persona escribe o adjunta en un formulario se va por POST, dentro del cuerpo de la solicitud, y por eso es más seguro para manejar información que no quieres que vaya visible.
+
+En una app comunitaria eso cambia todo, porque convierte la app de "solo leer" a "participar". Con POST la gente puede enviar información, registrarse, dejar mensajes o compartir lo que pasa en su entorno, y todo eso llega directo a quienes administran la iniciativa. Así la tecnología deja de ser algo externo y se vuelve una herramienta que la misma comunidad usa, controla y alimenta.
+
+En resumen: POST es lo que le da voz a la gente dentro de la aplicación.

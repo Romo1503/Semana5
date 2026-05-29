@@ -1,0 +1,11 @@
+Las APIs son como puentes que conectan a las personas y a las aplicaciones dentro de una comunidad. 
+
+Gracias a ellas, la información no se queda quieta en un solo lugar, sino que puede moverse rápido y de forma ordenada entre distintos sistemas y usuarios. Eso significa que un reporte, una alerta o un mensaje que envía alguien puede llegar al instante a quien lo necesita, sin vueltas ni demoras.
+
+En temas delicados como emergencias, daños en servicios públicos o actividades del barrio, tener esa comunicación fluida hace toda la diferencia. La gente se entera a tiempo y puede actuar juntos.
+
+Otro punto clave es que las APIs guardan esa información en servidores seguros. Así nada se pierde y todo queda disponible para consultarlo cuando haga falta, ya sea hoy o dentro de meses.
+
+Además ayudan a automatizar tareas repetitivas, para que nadie tenga que estar copiando datos a mano todo el tiempo. Y lo mejor: permiten que diferentes aplicaciones y herramientas trabajen juntas como un equipo, aunque hayan sido hechas por grupos distintos.
+
+Al final, cuando la información fluye y los sistemas se entienden entre sí, la comunidad se organiza mejor. La participación crece porque es más fácil opinar, reportar y colaborar desde el celular o el computador.
